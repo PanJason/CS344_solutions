@@ -1,2 +1,2 @@
 # CS344_solutions
-My solution to CS344 assignments.
+This repository saved my solutions to the assignments of CS344 intro to parallel programming.
